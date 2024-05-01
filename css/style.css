@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to right, hotpink, darkblue);
+  background: linear-gradient(to right, rgb(105, 255, 150), rgb(0, 86, 139));
 }
 .row {    
   height: 5em;
